@@ -1,3 +1,6 @@
 [submodule "SubModuleTP"]
 	path = SubModuleTP
 	url = https://github.com/arlgDev/SubModuleTP.git
+[submodule "SubModuleTP0"]
+	path = SubModuleTP0
+	url = https://github.com/arlgDev/SubModuleTP.git
