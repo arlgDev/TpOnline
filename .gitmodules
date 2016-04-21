@@ -1,0 +1,3 @@
+[submodule "SubModuleTP"]
+	path = SubModuleTP
+	url = https://github.com/arlgDev/SubModuleTP.git
